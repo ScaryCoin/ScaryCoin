@@ -37,4 +37,4 @@ So in future, I will look for any updates and I am also looking for partners - d
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
-A very special thanks I would like to say to the grat Turtlecoin Community on Discord, especially to: @Morpheus; @AFDI; @z; @ZenMaster (mrlahaye); @Rynem; @rndusr; @Xaz | Swansonclicker.com - and to others in TurtleCoin Communnity who gave me some advices!
+A very special thanks I would like to say to the great Turtlecoin Community on Discord, especially to: @Morpheus; @AFDI; @z; @ZenMaster (mrlahaye); @Rynem; @rndusr; @Xaz | Swansonclicker.com - and to others in TurtleCoin Communnity who gave me some advices!
