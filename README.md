@@ -1,4 +1,4 @@
-<h1 align="center"><img title="ScaryCoin" src="https://github.com/ScaryCoin/docs/blob/master/scary-coin.png" width="200" height="200" ><img/></h1>
+<h1 align="center"><img title="ScaryCoin" src="https://github.com/ScaryCoin/docs/blob/master/Scary-Logo-1.jpg" width="200" height="200" ><img/></h1>
 <h1 align="center">ScaryCoin
 <h6 align="center">Fast, secure and a very special cryptocurrency, that will change cryptoworld! Because in CryptoWorld we believe!
 
